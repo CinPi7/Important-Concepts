@@ -16,7 +16,7 @@
 
 ## :open_file_folder: Sobre o Projeto: Fundamentos do React
 
-### O que é o React?
+### :seedling: O que é o React?
 
 1. React é uma biblioteca JavaScript, útil para construir interfaces, primeiramente para aplicações single-pages, SPA. É utilizado para lidar com a camada view na web e mobile. React permite desenhar views simples para cada estado em sua aplicação, e atualizar de maneira eficiente os componentes necessários quando os dados atualizarem.
 
@@ -24,7 +24,7 @@
 
 3. React é apenas uma biblioteca, o que significa que não é um completo framework. Então, React pode ser utilizado com outras bibliotecas como Redux para gerenciamento de estados e React Router para roteamento.
 
-### O que é SPA?
+### :cactus: O que é SPA?
 
 ➜ SPA significa Single Page Application, ou Aplicação de Página Única. É uma abordagem dinâmica para construção de aplicações web ou websites, onde a página é reescrita conforme ações do usuário, em vez de carregar páginas inteiras. SPA carrega todo o código HTML, JavaScript, e CSS necessários, sendo igualmente recebidos pelo browser, com o carregamento dos recursos necessários iniciais, que são dinamicamente atualizados e adicionados novos recursos e páginas conforme as necessidades de navegação, normalmente em resposta às interações do usuário. O objetivo é fazer transições mais rápidas que fazem o website ser mais um app nativo, semelhante os de desktop.
 
