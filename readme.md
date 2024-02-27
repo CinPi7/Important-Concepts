@@ -1,16 +1,16 @@
 # :butterfly: React Review!
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/CinPi7/Franq-Teste?color=pink">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/CinPi7/React-Concepts?color=pink">
 
   <a href="https://www.linkedin.com/in/cinthiapissetti/" target="_blank" rel="noopener noreferrer">
     <img alt="Made by" src="https://img.shields.io/badge/made%20by-cinthia%20pissetti-pink">
   </a>
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/CinPi7/Franq-Teste?color=pink">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/CinPi7/React-Concepts?color=pink">
 
   <a href="https://github.com/oDevBR/rgb-mixin/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/CinPi7/Franq-Teste?color=pink">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/CinPi7/React-Concepts?color=pink">
   </a>
 </p>
 
