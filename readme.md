@@ -18,7 +18,7 @@
 
 ### O que é o React?
 
-1. React é uma biblioteca JavaScript, útil para construir interfaces, primeiramente para aplicações single-pages. É utilizado para lidar com a camada view na web e mobile. React permite desenhar views simples para cada estado em sua aplicação, e atualizar de maneira eficiente os componentes necessários quando os dados atualizarem.
+1. React é uma biblioteca JavaScript, útil para construir interfaces, primeiramente para aplicações single-pages, SPA. É utilizado para lidar com a camada view na web e mobile. React permite desenhar views simples para cada estado em sua aplicação, e atualizar de maneira eficiente os componentes necessários quando os dados atualizarem.
 
 2. React possui componentes, os quais são reutilizáveis e podem gerenciar seus próprios estados. Então, em aplicações grandes, partes individuais podem ser atualizadas sem necessidade de recarregar a página inteira. Isso permite mais eficiência da aplicação, além de melhorar a experiência do usuário.
 
@@ -32,7 +32,7 @@
 
 ➜ As Single Page Applications (SPAs) são geralmente consideradas "client-side" porque a maior parte do processamento e renderização é feita no navegador do cliente, em vez de no servidor. Isso é diferente das aplicações "server-rendered", onde cada nova página ou conteúdo é gerado e enviado pelo servidor cada vez que o usuário solicita uma nova página ou faz uma ação que requer uma atualização da página.
 
-:eyes: Curiosidades: "server-side" e "server-rendered" são relacionados, mas são conceitos distintos. "Server-side" refere-se a qualquer operação que é performada no servidor em uma aplicação "client-server". Isso inclui processamento de dados, autenticação de usuário, interações com o banco de dados, e mais. Por outro lado, o "server-rendered" refere-se especialmente ao processo onde o servidor gera as páginas HTML e envia elas ao cliente. Este é um contraste com o "client-side-rendering", onde as páginas HTML são geradas no browser do cliente. Ou seja, em aplicações "server-redered", o servidor trabalha mais, enquanto no "client-side", como os SPAs, o browser do cliente faz a maior parte do trabalho.
+### :eyes: Curiosidades: "server-side" e "server-rendered" são relacionados, mas são conceitos distintos. "Server-side" refere-se a qualquer operação que é performada no servidor em uma aplicação "client-server". Isso inclui processamento de dados, autenticação de usuário, interações com o banco de dados, e mais. Por outro lado, o "server-rendered" refere-se especialmente ao processo onde o servidor gera as páginas HTML e envia elas ao cliente. Este é um contraste com o "client-side-rendering", onde as páginas HTML são geradas no browser do cliente. Ou seja, em aplicações "server-redered", o servidor trabalha mais, enquanto no "client-side", como os SPAs, o browser do cliente faz a maior parte do trabalho.
 
 ➜ Inicialmente, os sites da web iniciais, eram principalmente "server-rendered". Cada vez que o usuário final clicava em um link para ir para uma nova página, o servidor tinha que gerar todo o HTML para essa página e enviá-lo para o seu navegador. Isso poderia ser lento e ineficiente. Assim, linguagens de servidor, como **PHP**, **Ruby** e **Python**, foram introduzidos, permitindo gerar conteúdo de maneira dinâmica baseado em interações com bancos de dados. O conceito de SPA representa uma mudança em como pensar sobre desenvolvimento web. Ao invés de depender do servidor entregar os arquivos HTML, os SPAs usam o JavaScript para dinamicamente atualizar a página atual em resposta à interação do usuário, conduzindo para uma experiência melhor do usuário.
 
@@ -45,3 +45,5 @@
 ➜ Hoje em dia, há uma variedade de bibliotecas e frameworks, como React, Vue.js, que também suportam o desenvolvimento de SPAs. Cada um possui pontos fortes e fracos, onde a melhor escolha depende das especificações e necessidades de cada projeto.
 
 <img src="./assets/renderingPatterns.png" alt="rendering-patterns" />
+
+➜ Em desenvolvimento web moderno, SPAs são normalmente utilizados com arquitetura para JSON. Isso permite que o backend, como Node.js, envie e receba dados em formato JSON. Estes dados podem ser utilizados não apenas para clientes web, mas também outros tipos de clientes, como os de mobile. Isso é parte de tornar as APIs mais flexíveis e poderosas.
