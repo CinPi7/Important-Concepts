@@ -1,4 +1,4 @@
-# :butterfly: React Review!
+# :butterfly: Fundamentos de React!
 
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/CinPi7/React-Concepts?color=pink">
@@ -45,25 +45,3 @@
 ➜ Hoje em dia, há uma variedade de bibliotecas e frameworks, como React, Vue.js, que também suportam o desenvolvimento de SPAs. Cada um possui pontos fortes e fracos, onde a melhor escolha depende das especificações e necessidades de cada projeto.
 
 <img src="./assets/renderingPatterns.png" alt="rendering-patterns" />
-
-##
-
-### :rocket: Tecnologias
-
-- [Vite](https://vitejs.dev/)
-- [ReactJS](https://reactjs.org/)
-- [TailwindCSS](https://tailwindcss.com/)
-
-### :fountain: Começar Local
-
-**Clone o projeto para acessá-lo:**
-
-```bash
-$ git clone git@github.com:CinPi7/Franq-Teste.git && pnpm run dev && pnpm run server
-```
-
-### :globe_with_meridians: Deploy com a Vercel (clique no foguete)!
-
-<p align="center">
- <a target="_blank" rel="noopener noreferrer" href="https://franq-teste.vercel.app/login"><img width="50" height="50" src='https://cdn-icons-png.flaticon.com/512/4334/4334058.png' alt="Logo" /></a>
-</p>
