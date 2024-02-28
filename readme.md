@@ -49,3 +49,11 @@
 <img src="./assets/renderingPatterns.png" alt="rendering-patterns" />
 
 ➜ Em desenvolvimento web moderno, SPAs são normalmente utilizados com arquitetura para JSON. Isso permite que o backend, como Node.js, envie e receba dados em formato JSON. Estes dados podem ser utilizados não apenas para clientes web, mas também outros tipos de clientes, como os de mobile. Isso é parte de tornar as APIs mais flexíveis e poderosas.
+
+## Compilers e Bundlers
+
+Apesar da evolução das tecnologias JavaScript, muitas vezes é necessário converter o código para que o Browser, que pode não utilizar tal tecnologia, entenda o código mais moderno. Precisaria de configurações específicas de acordo com as tecnologias.
+
+### Compilers
+
+São compiladores de código, transformam o código para uma versão
