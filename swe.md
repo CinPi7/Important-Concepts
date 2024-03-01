@@ -10,13 +10,15 @@
 
 ## :link: O que é uma API?
 
-➜ Uma API, ou Interface de Programação de Aplicações, é um conjunto de regras e protocolos, instruções e padrões, que especificam como os componentes de software devem interagir, formando uma interface de acesso a um aplicativo online.
-➜ Ela permite que diferentes softwares 'conversem' entre si de maneira padronizada.
-➜ Por exemplo, quando você usa um aplicativo em seu telefone para ver o tempo, o aplicativo usa uma API para solicitar dados de um serviço de previsão do tempo.
-
-➜ As arquiteturas de API, como REST e GraphQL, são maneiras diferentes de projetar e implementar APIs.
-➜ REST, ou Representational State Transfer, é uma arquitetura que usa o protocolo HTTP e seus métodos (GET, POST, PUT, DELETE) para criar APIs. Ela é baseada em recursos, onde cada recurso é identificado por URLs.
-➜ GraphQL, por outro lado, é uma linguagem de consulta para APIs que permite aos clientes especificar exatamente quais dados eles precisam, o que pode reduzir a quantidade de dados que precisam ser transferidos.
+<p>➜ Uma API, ou Interface de Programação de Aplicações, é um conjunto de regras e protocolos, instruções e padrões, que especificam como os componentes de software devem interagir, formando uma interface de acesso a um aplicativo online.</p>
+<p>➜ Ela permite que diferentes softwares 'conversem' entre si de maneira padronizada.</p>
+<p>➜ Por exemplo, quando você usa um aplicativo em seu telefone para ver o tempo, o aplicativo usa uma API para solicitar dados de um serviço de previsão do tempo.</p>
+<p>➜ As arquiteturas de API, como REST e GraphQL, são maneiras diferentes de projetar e implementar APIs.</p>
+<p>➜ REST, ou Representational State Transfer, é uma arquitetura que usa o protocolo HTTP e seus métodos (GET, POST, PUT, DELETE) para criar APIs. Ela é baseada em recursos, onde cada recurso é identificado por URLs.
+</p>
+<p>➜ GraphQL, por outro lado, é uma linguagem de consulta para APIs que permite aos clientes especificar exatamente quais dados eles precisam, o que pode reduzir a quantidade de dados que precisam ser transferidos.
+</p>
+<p></p>
 
 A escolha entre REST, GraphQL ou outra arquitetura de API depende das necessidades específicas do seu projeto. Por exemplo, se você precisa de uma API altamente personalizável que possa retornar muitos tipos diferentes de dados, o GraphQL pode ser uma boa escolha. Se você está criando uma API simples que se alinha bem com o modelo de recurso do REST, então o REST pode ser a melhor opção.
 
